@@ -1,0 +1,20 @@
+body {
+  background: url("../images/bg-intro-desktop.png");
+  background-color: hsl(0, 100%, 74%) !important;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
